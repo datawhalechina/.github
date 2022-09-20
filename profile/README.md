@@ -7,9 +7,9 @@ Datawhale 是一个专注于数据科学与 AI 领域的开源组织，汇集了
 
 ## 参与Datawhale开源社区
 
-如果你想在Datawhale开源社区发起一个开源项目，请详细阅读[Datawhale开源项目指南](./GUIDE.md)。
+如果你想在Datawhale开源社区发起一个开源项目，请详细阅读[Datawhale开源项目指南](https://github.com/datawhalechina/DOPMC/blob/main/GUIDE.md)。
 
-*ps：如果你对 Github 的操作不太熟悉，可以查看[Github 极简操作指南](./GITHUB.md)，仅需30秒即可创建属于你的第一个Issue✨*
+*ps：如果你对 Github 的操作不太熟悉，可以查看[Github 极简操作指南](https://github.com/datawhalechina/DOPMC/blob/main/GITHUB.md)，仅需30秒即可创建属于你的第一个Issue✨*
 
 ### 参与项目💓
 
@@ -31,4 +31,3 @@ Datawhale 是一个专注于数据科学与 AI 领域的开源组织，汇集了
 <p>扫描下方二维码关注公众号：Datawhale</p>
 <img src="https://raw.githubusercontent.com/datawhalechina/pumpkin-book/master/res/qrcode.jpeg" width = "180" height = "180">
 </div>
-
