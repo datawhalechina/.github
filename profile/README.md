@@ -4,7 +4,7 @@ Datawhale 是一个专注于数据科学与 AI 领域的开源组织，汇集了
 
 ## Datawhale人工智能培养方案
 
-我们将所有开源教程按照学习顺序，分方向整理成了[Datawhale人工智能培养方案](https://datawhaler.feishu.cn/wiki/JcnEwCYO2i0v3FkBizWcLfWanKb)
+我们将所有开源教程分方向以及按照学习顺序整理成了[Datawhale人工智能培养方案](https://datawhaler.feishu.cn/wiki/JcnEwCYO2i0v3FkBizWcLfWanKb)
 
 ## 参与Datawhale开源社区
 
