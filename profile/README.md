@@ -12,7 +12,7 @@ Datawhale是一个专注于AI与数据科学的开源组织，汇集了众多领
 ## 你是一个有明确学习目标的学习者？
 首先打开仓库清单页：https://github.com/orgs/datawhalechina/repositories ，然后在🔍搜索框输入你想学习的内容的关键词，然后回车即可搜索出相关的教程，具体演示如下：
 <div align=center>
-<img width="1098" alt="image" src="https://github.com/user-attachments/assets/43aed4ef-c420-4491-9ef2-1eb4b2c4b159">
+<img width="1079" alt="image" src="https://github.com/user-attachments/assets/2cf0f3d7-e9e6-470d-8cf5-1a78140cd775">
 </div>
 
 ## 你是一个在学习我们开源项目过程中遇到了问题的学习者？
