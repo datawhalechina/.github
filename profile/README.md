@@ -14,6 +14,7 @@ Datawhale是一个专注于AI与数据科学的开源组织，汇集了众多领
 <div align=center>
 <img width="1079" alt="image" src="https://github.com/user-attachments/assets/2cf0f3d7-e9e6-470d-8cf5-1a78140cd775">
 </div>
+如果按照以上方法未能搜到你想学的教程，请关注我们微信公众号Datawhale，我们不定期会发送标题带有【有求必应】关键词的推文用于征集社区学习者想学习的课程，你可以在该类型推文下许愿你想学的课程~
 
 ## 你是一个在学习我们开源项目过程中遇到了问题的学习者？
 请直接去对应项目的Issue区提问，通常对应项目负责人会收到邮件提示并及时进行回复，如果提完没有人回复你可以联系[保姆团队](https://github.com/datawhalechina/DOPMC/blob/main/OP.md)的同学进行反馈跟进~
