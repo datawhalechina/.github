@@ -7,7 +7,7 @@ Datawhale是一个专注于AI与数据科学的开源组织，汇集了众多领
 </div>
 
 ## 你是一个不知道从哪儿开始学的小白？
-我们已经将Datawhale所有开源教程分方向以及按照学习顺序整理成了[Datawhale人工智能培养方案](https://datawhaler.feishu.cn/wiki/JcnEwCYO2i0v3FkBizWcLfWanKb)，你只需挑选一个感兴趣的方向，然后按照其中的学习顺序进行学习即可~
+我们已经将Datawhale所有开源教程分方向以及按照学习顺序整理成了[Datawhale人工智能培养方案](https://www.datawhale.cn/learn/summary/40)，你只需挑选一个感兴趣的方向，然后按照其中的学习顺序进行学习即可~
 
 ## 你是一个有明确学习目标的学习者？
 首先打开仓库清单页：https://github.com/orgs/datawhalechina/repositories ，然后在🔍搜索框输入你想学习的内容的关键词，然后回车即可搜索出相关的教程，具体演示如下：
