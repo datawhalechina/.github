@@ -321,3 +321,4 @@ Datawhale是一个专注于AI与数据科学的开源组织，汇集了众多领
 [<img src="https://wsrv.nl/?url=github.com/zhimin-z.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="32" height="32" alt="zhimin-z"/>](https://github.com/zhimin-z)
 [<img src="https://wsrv.nl/?url=github.com/zhugezifang.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="32" height="32" alt="zhugezifang"/>](https://github.com/zhugezifang)
 [<img src="https://wsrv.nl/?url=github.com/zjhellofss.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="32" height="32" alt="zjhellofss"/>](https://github.com/zjhellofss)
+[<img src="https://wsrv.nl/?url=github.com/ditingdapeng.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="32" height="32" alt="ditingdapeng"/>](https://github.com/ditingdapeng)
