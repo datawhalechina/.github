@@ -277,7 +277,6 @@ Datawhale是一个专注于AI与数据科学的开源组织，汇集了众多领
 [<img src="https://wsrv.nl/?url=github.com/muzilyd.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="32" height="32" alt="muzilyd"/>](https://github.com/muzilyd)
 [<img src="https://wsrv.nl/?url=github.com/Naomi-yoga.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="32" height="32" alt="Naomi-yoga"/>](https://github.com/Naomi-yoga)
 [<img src="https://wsrv.nl/?url=github.com/NorthblueM.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="32" height="32" alt="NorthblueM"/>](https://github.com/NorthblueM)
-[<img src="https://wsrv.nl/?url=github.com/Orion-DYH.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="32" height="32" alt="Orion-DYH"/>](https://github.com/Orion-DYH)
 [<img src="https://wsrv.nl/?url=github.com/Paroxetinez.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="32" height="32" alt="Paroxetinez"/>](https://github.com/Paroxetinez)
 [<img src="https://wsrv.nl/?url=github.com/PeakWalkerLYH.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="32" height="32" alt="PeakWalkerLYH"/>](https://github.com/PeakWalkerLYH)
 [<img src="https://wsrv.nl/?url=github.com/Prado-learning.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="32" height="32" alt="Prado-learning"/>](https://github.com/Prado-learning)
