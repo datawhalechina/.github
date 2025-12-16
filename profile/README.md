@@ -1,9 +1,11 @@
-<h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=2669B2&center=true&vCenter=true&width=435&lines=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0Datawhale%E5%BC%80%E6%BA%90%E7%A4%BE%E5%8C%BA~;Welcome+to+Datawhale~"/></h1>
-
-Datawhale是一个专注于AI与数据科学的开源组织，汇集了众多领域院校和知名企业的优秀学习者，聚合了一群有开源精神和探索精神的团队成员，微信搜索公众号Datawhale或者扫描下方二维码可以关注我们~
-
 <div align=center>
-<img src="https://raw.githubusercontent.com/datawhalechina/pumpkin-book/master/res/qrcode.jpeg" width = "180" height = "180">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=2669B2&center=true&vCenter=true&width=435&lines=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0Datawhale%E5%BC%80%E6%BA%90%E7%A4%BE%E5%8C%BA~;Welcome+to+Datawhale~"/>
+  
+  <div>
+    <a href="https://www.datawhale.cn"><img src="https://img.shields.io/badge/Official Website-官方网站-blue" /></a>&emsp;
+    <a href="https://raw.githubusercontent.com/datawhalechina/pumpkin-book/master/res/qrcode.jpeg"><img src="https://img.shields.io/badge/WeChat-微信公众号-07c160" /></a>&emsp;
+    <a href="https://space.bilibili.com/431850986"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+  </div>
 </div>
 
 ## 你是一个不知道从哪儿开始学的小白？
