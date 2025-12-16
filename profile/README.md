@@ -10,7 +10,7 @@
   <div>&nbsp;</div>
   
   <div>
-    <img width="100%" src="https://metrics.lecoq.io/datawhalechina?template=classic&base.indepth=true&introduction=1&lines=1&followup=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&introduction=false&introduction.title=true&config.timezone=Asia%2FShanghai&config.display=columns"/>
+    <img width="100%" src="https://metrics.lecoq.io/datawhalechina?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&followup=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&followup=false&followup.sections=repositories&followup.indepth=true&followup.archived=true&config.timezone=Asia%2FShanghai"/>
   </div> 
 </div>
 
