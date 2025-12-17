@@ -10,9 +10,9 @@
   <div>&nbsp;</div>
   
   <div>
-    <a href="https://www.datawhale.cn"><img src="https://img.shields.io/badge/Official Website-官方网站-blue" /></a>&emsp;
-    <a href="https://raw.githubusercontent.com/datawhalechina/pumpkin-book/master/res/qrcode.jpeg"><img src="https://img.shields.io/badge/WeChat-微信公众号-07c160" /></a>&emsp;
-    <a href="https://space.bilibili.com/431850986"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <a href="https://www.datawhale.cn"><img src="https://img.shields.io/badge/Official%20Website-官方网站-blue?style=for-the-badge" /></a>&emsp;
+    <a href="https://raw.githubusercontent.com/datawhalechina/pumpkin-book/master/res/qrcode.jpeg"><img src="https://img.shields.io/badge/WeChat-微信公众号-07c160?style=for-the-badge" /></a>&emsp;
+    <a href="https://space.bilibili.com/431850986"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4?style=for-the-badge" /></a>&emsp;
   </div>
   
   <div>&nbsp;</div>
@@ -49,24 +49,8 @@
 [![torch-rechub](https://github-readme-stats.vercel.app/api/pin/?username=datawhalechina&repo=torch-rechub&description_lines_count=2)](https://github.com/datawhalechina/torch-rechub)
 [![members-visualization](https://github-readme-stats.vercel.app/api/pin/?username=datawhalechina&repo=members-visualization&description_lines_count=2)](https://github.com/datawhalechina/members-visualization)
 
-## 你是一个不知道从哪儿开始学的小白？
-我们已经将Datawhale所有开源教程分方向以及按照学习顺序整理成了[Datawhale人工智能培养方案](https://www.datawhale.cn/learn/summary/40)，你只需挑选一个感兴趣的方向，然后按照其中的学习顺序进行学习即可~
-
-## 你是一个有明确学习目标的学习者？
-首先打开仓库清单页：https://github.com/orgs/datawhalechina/repositories ，然后在🔍搜索框输入你想学习的内容的关键词，然后回车即可搜索出相关的教程，具体演示如下：
-<div align=center>
-<img width="1079" alt="image" src="https://github.com/user-attachments/assets/2cf0f3d7-e9e6-470d-8cf5-1a78140cd775">
-</div>
-如果按照以上方法未能搜到你想学的教程，请关注我们微信公众号Datawhale，我们不定期会发送标题带有【有求必应】关键词的推文用于征集社区学习者想学习的课程，你可以在该类型推文下许愿你想学的课程~
-
-## 你是一个在学习我们开源项目过程中遇到了问题的学习者？
-请直接去对应项目的Issue区提问，通常对应项目负责人会收到邮件提示并及时进行回复，如果提完没有人回复你可以联系[保姆团队](https://github.com/datawhalechina/DOPMC/blob/main/OP.md)的同学进行反馈跟进~
-
-## 你是一个跟我们一样极具开源精神的贡献者？
-我们欢迎任何具有开源精神，热爱知识分享的贡献者来我们社区创作开源项目，如果你想为我们已有的开源项目添砖加瓦，贡献自己的一份力量，请直接给对应开源项目提Pull Request即可，如果提完没有人回复你可以联系[保姆团队](https://github.com/datawhalechina/DOPMC/blob/main/OP.md)的同学进行反馈跟进；如果你想以项目负责人的身份从0开始创作一个新的开源项目请按照[Datawhale开源项目指南](https://github.com/datawhalechina/DOPMC/blob/main/GUIDE.md)进行操作即可~
-
-## 你有建议想提给我们？
-我们开放了反馈渠道，如果你有任何想提的建议欢迎通过[点击这里](https://github.com/datawhalechina/DOPMC/discussions/categories/%E5%BB%BA%E8%AE%AE%E5%8F%8D%E9%A6%88)发帖进行反馈，你并不需要担心提出的建议没有价值，我们鼓励所有类型的沟通，发现问题也是对社区进行贡献的一种方式❤️~
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="35" height="35" /> Contact us </h2>
+<p align="center"> WeChat：at-Sm1les</p>
 
 <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Family%20Man%2C%20Woman%2C%20Girl%2C%20Boy.png" width="35" height="35" /> Family </h2>
 
