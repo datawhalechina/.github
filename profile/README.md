@@ -1,7 +1,7 @@
 <div align=center>
   
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=2669B2&center=true&vCenter=true&width=435&lines=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0Datawhale%E5%BC%80%E6%BA%90%E7%A4%BE%E5%8C%BA~;Welcome+to+Datawhale~"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=2669B2&center=true&vCenter=true&width=435&lines=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0Datawhale~;Welcome+to+Datawhale~"/>
   
   <div>
     <img src="https://github.com/user-attachments/assets/df06e8d3-2202-48e1-8d2d-205cf9485229"/>
