@@ -26,7 +26,7 @@
 </div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Spouting%20Whale.png" width="35" height="35" /> Who we are?
-<img align="right" width="180" src="https://github.com/user-attachments/assets/388c2f02-6c5c-4f70-870b-e4ba2dfe0381" />
+<img align="right" width="180" src="https://github.com/user-attachments/assets/aafd2164-cf63-4b9b-84dd-9a308d1b1b16" />
 
 <p>Datawhale是一个专注于AI与数据科学的开源组织，汇集了众多领域院校和知名企业的优秀学习者，聚合了一群有开源精神和探索精神的理想主义者。</p>
 
