@@ -1,4 +1,8 @@
 <div align=center>
+  <div>
+    <img src="https://github.com/user-attachments/assets/df06e8d3-2202-48e1-8d2d-205cf9485229"/>
+  </div>
+  
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=2669B2&center=true&vCenter=true&width=435&lines=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0Datawhale%E5%BC%80%E6%BA%90%E7%A4%BE%E5%8C%BA~;Welcome+to+Datawhale~"/>
   
   <div>
@@ -9,9 +13,14 @@
   
   <div>&nbsp;</div>
   
-  <div>
-    <img width="100%" src="https://metrics.lecoq.io/datawhalechina?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&followup=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&followup=false&followup.sections=repositories&followup.indepth=true&followup.archived=true&config.timezone=Asia%2FShanghai"/>
-  </div> 
+
+
+  <table>
+    <tr>
+      <td><img src="https://metrics.lecoq.io/datawhalechina?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&followup=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&followup=false&followup.sections=repositories&followup.indepth=true&followup.archived=true&config.timezone=Asia%2FShanghai"/></td>
+      <td><img src="https://metrics.lecoq.io/datawhalechina?template=classic&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FShanghai"/></td>
+    </tr>
+  </table>
 </div>
 
 ## 你是一个不知道从哪儿开始学的小白？
