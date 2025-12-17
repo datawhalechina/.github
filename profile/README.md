@@ -28,9 +28,9 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Astronaut.png" width="35" height="35" /> Who we are?
 <img align="right" width="180" src="https://github.com/user-attachments/assets/aafd2164-cf63-4b9b-84dd-9a308d1b1b16" />
 
-<p>Datawhale是一个专注于AI与数据科学的开源组织，汇集了众多领域院校和知名企业的优秀学习者，聚合了一群有开源精神和探索精神的理想主义者。</p>
+<p>Datawhale 是一个专注于AI的开源组织，成立于2018年，我们汇聚了一群有开源精神和探索精神的理想主义者，致力于分享最前沿的AI知识，改善学习环境，我们的价值观是：for the learner，和学习者一起成长。</p>
 
-<p>Datawhale is an open-source organization focused on AI and data science, bringing together outstanding learners from various academic institutions and leading companies, and gathering a team of members who embrace both the open-source ethos and the spirit of exploration.</p>
+<p>Datawhale is an AI-focused open source organization founded in 2018. We bring together a group of idealists with an open-source ethos and a spirit of exploration, committed to sharing cutting-edge AI knowledge and improving the learning environment. Our core value is: for the learner, growing alongside learners.</p>
 
 
 ## 你是一个不知道从哪儿开始学的小白？
