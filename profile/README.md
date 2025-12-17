@@ -7,6 +7,8 @@
     <img src="https://github.com/user-attachments/assets/df06e8d3-2202-48e1-8d2d-205cf9485229"/>
   </div>
   
+  <div>&nbsp;</div>
+  
   <div>
     <a href="https://www.datawhale.cn"><img src="https://img.shields.io/badge/Official Website-官方网站-blue" /></a>&emsp;
     <a href="https://raw.githubusercontent.com/datawhalechina/pumpkin-book/master/res/qrcode.jpeg"><img src="https://img.shields.io/badge/WeChat-微信公众号-07c160" /></a>&emsp;
