@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=2669B2&center=true&vCenter=true&width=435&lines=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0Datawhale~;Welcome+to+Datawhale~"/>
   
   <div>
-    <img width="180" src="https://github.com/user-attachments/assets/df06e8d3-2202-48e1-8d2d-205cf9485229"/>
+    <img width="100" src="https://github.com/user-attachments/assets/df06e8d3-2202-48e1-8d2d-205cf9485229"/>
   </div>
   
   <div>&nbsp;</div>
@@ -26,14 +26,13 @@
 </div>
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Astronaut.png" width="35" height="35" /> Who we are?</h2>
-<img align="right" width="180" src="https://github.com/user-attachments/assets/aafd2164-cf63-4b9b-84dd-9a308d1b1b16" />
+<img align="right" width="100" src="https://github.com/user-attachments/assets/aafd2164-cf63-4b9b-84dd-9a308d1b1b16" />
 
 <p>Datawhale 是一个专注于AI领域的开源组织，成立于2018年，我们汇聚了一群有开源精神和探索精神的理想主义者，致力于分享最前沿的AI知识，改善学习环境，我们的价值观是：for the learner，和学习者一起成长。</p>
 
 <p>Datawhale is an AI-focused open source organization founded in 2018. We bring together a group of idealists with an open-source ethos and a spirit of exploration, committed to sharing cutting-edge AI knowledge and improving the learning environment. Our core value is: for the learner, growing alongside learners.</p>
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="35" height="35" /> Trending</h2>
-<img align="right" width="180" src="https://github.com/user-attachments/assets/87d7419c-e378-4d62-9fdc-e2d50fb2314c" />
 
 - [hello-agents](https://github.com/datawhalechina/hello-agents)：📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
 - [happy-llm](https://github.com/datawhalechina/happy-llm)：📚 从零开始的大语言模型原理与实践教程
@@ -42,6 +41,7 @@
 - [tiny-universe](https://github.com/datawhalechina/tiny-universe)：《大模型白盒子构建指南》：一个全手搓的Tiny-Universe
 - [leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial)：《李宏毅深度学习教程》（李宏毅老师推荐👍，苹果书🍎）
 - [pumpkin-book](https://github.com/datawhalechina/pumpkin-book)：《机器学习》（西瓜书）公式详解
+
 
 ## 你是一个不知道从哪儿开始学的小白？
 我们已经将Datawhale所有开源教程分方向以及按照学习顺序整理成了[Datawhale人工智能培养方案](https://www.datawhale.cn/learn/summary/40)，你只需挑选一个感兴趣的方向，然后按照其中的学习顺序进行学习即可~
