@@ -68,8 +68,7 @@
 ## 你有建议想提给我们？
 我们开放了反馈渠道，如果你有任何想提的建议欢迎通过[点击这里](https://github.com/datawhalechina/DOPMC/discussions/categories/%E5%BB%BA%E8%AE%AE%E5%8F%8D%E9%A6%88)发帖进行反馈，你并不需要担心提出的建议没有价值，我们鼓励所有类型的沟通，发现问题也是对社区进行贡献的一种方式❤️~
 
-<div align=center><h2> 💐 贡献者列表 💐 </h2></div>
-<div align=center> 感谢以下所有为Datawhale做出贡献的同学们 </div>
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Family%20Man%2C%20Woman%2C%20Girl%2C%20Boy.png" width="35" height="35" /> We are family </h2>
 
 [<img src="https://wsrv.nl/?url=github.com/0-yy-0.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="32" height="32" alt="0-yy-0"/>](https://github.com/0-yy-0)
 [<img src="https://wsrv.nl/?url=github.com/2209520576.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="32" height="32" alt="2209520576"/>](https://github.com/2209520576)
