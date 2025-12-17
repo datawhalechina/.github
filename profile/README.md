@@ -38,8 +38,16 @@
 [![happy-llm](https://github-readme-stats.vercel.app/api/pin/?username=datawhalechina&repo=happy-llm)](https://github.com/datawhalechina/happy-llm)
 [![all-in-rag](https://github-readme-stats.vercel.app/api/pin/?username=datawhalechina&repo=all-in-rag)](https://github.com/datawhalechina/all-in-rag)
 [![self-llm](https://github-readme-stats.vercel.app/api/pin/?username=datawhalechina&repo=self-llm)](https://github.com/datawhalechina/self-llm)
+[![vibe-vibe](https://github-readme-stats.vercel.app/api/pin/?username=datawhalechina&repo=vibe-vibe)](https://github.com/datawhalechina/vibe-vibe)
+[![base-nlp](https://github-readme-stats.vercel.app/api/pin/?username=datawhalechina&repo=base-nlp)](https://github.com/datawhalechina/base-nlp)
+[![easy-vectordb](https://github-readme-stats.vercel.app/api/pin/?username=datawhalechina&repo=easy-vectordb)](https://github.com/datawhalechina/easy-vectordb)
+[![handy-ollama](https://github-readme-stats.vercel.app/api/pin/?username=datawhalechina&repo=handy-ollama)](https://github.com/datawhalechina/handy-ollama)
 [![tiny-universe](https://github-readme-stats.vercel.app/api/pin/?username=datawhalechina&repo=tiny-universe)](https://github.com/datawhalechina/tiny-universe)
-
+[![code-your-own-llm](https://github-readme-stats.vercel.app/api/pin/?username=datawhalechina&repo=code-your-own-llm)](https://github.com/datawhalechina/code-your-own-llm)
+[![self-dify](https://github-readme-stats.vercel.app/api/pin/?username=datawhalechina&repo=self-dify)](https://github.com/datawhalechina/self-dify)
+[![handy-n8n](https://github-readme-stats.vercel.app/api/pin/?username=datawhalechina&repo=handy-n8n)](https://github.com/datawhalechina/handy-n8n)
+[![torch-rechub](https://github-readme-stats.vercel.app/api/pin/?username=datawhalechina&repo=torch-rechub)](https://github.com/datawhalechina/torch-rechub)
+[![members-visualization](https://github-readme-stats.vercel.app/api/pin/?username=datawhalechina&repo=members-visualization)](https://github.com/datawhalechina/members-visualization)
 
 ## 你是一个不知道从哪儿开始学的小白？
 我们已经将Datawhale所有开源教程分方向以及按照学习顺序整理成了[Datawhale人工智能培养方案](https://www.datawhale.cn/learn/summary/40)，你只需挑选一个感兴趣的方向，然后按照其中的学习顺序进行学习即可~
