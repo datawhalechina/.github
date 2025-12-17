@@ -25,6 +25,10 @@
   </table>
 </div>
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Spouting%20Whale.png" width="35" height="35" /> Who we are?
+
+
+
 ## 你是一个不知道从哪儿开始学的小白？
 我们已经将Datawhale所有开源教程分方向以及按照学习顺序整理成了[Datawhale人工智能培养方案](https://www.datawhale.cn/learn/summary/40)，你只需挑选一个感兴趣的方向，然后按照其中的学习顺序进行学习即可~
 
