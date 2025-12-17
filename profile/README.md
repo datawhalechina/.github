@@ -25,14 +25,14 @@
   </table>
 </div>
 
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Astronaut.png" width="35" height="35" /> Who we are?</h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Astronaut.png" width="35" height="35" /> Who we are?</h2>
 <img align="right" width="100" src="https://github.com/user-attachments/assets/aafd2164-cf63-4b9b-84dd-9a308d1b1b16" />
 
 <p>Datawhale 是一个专注于AI领域的开源组织，成立于2018年，我们汇聚了一群有开源精神和探索精神的理想主义者，致力于分享最前沿的AI知识，改善学习环境，我们的价值观是：for the learner，和学习者一起成长。</p>
 
 <p>Datawhale is an AI-focused open source organization founded in 2018. We bring together a group of idealists with an open-source ethos and a spirit of exploration, committed to sharing cutting-edge AI knowledge and improving the learning environment. Our core value is: for the learner, growing alongside learners.</p>
 
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="35" height="35" /> Trending</h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="35" height="35" /> Trending</h2>
 
 [![hello-agents](https://github-readme-stats.vercel.app/api/pin/?username=datawhalechina&repo=hello-agents&description_lines_count=2)](https://github.com/datawhalechina/hello-agents)
 [![happy-llm](https://github-readme-stats.vercel.app/api/pin/?username=datawhalechina&repo=happy-llm&description_lines_count=2)](https://github.com/datawhalechina/happy-llm)
@@ -68,7 +68,7 @@
 ## 你有建议想提给我们？
 我们开放了反馈渠道，如果你有任何想提的建议欢迎通过[点击这里](https://github.com/datawhalechina/DOPMC/discussions/categories/%E5%BB%BA%E8%AE%AE%E5%8F%8D%E9%A6%88)发帖进行反馈，你并不需要担心提出的建议没有价值，我们鼓励所有类型的沟通，发现问题也是对社区进行贡献的一种方式❤️~
 
-<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Family%20Man%2C%20Woman%2C%20Girl%2C%20Boy.png" width="35" height="35" /> We are family </h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Family%20Man%2C%20Woman%2C%20Girl%2C%20Boy.png" width="35" height="35" /> Family </h2>
 
 [<img src="https://wsrv.nl/?url=github.com/0-yy-0.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="32" height="32" alt="0-yy-0"/>](https://github.com/0-yy-0)
 [<img src="https://wsrv.nl/?url=github.com/2209520576.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="32" height="32" alt="2209520576"/>](https://github.com/2209520576)
