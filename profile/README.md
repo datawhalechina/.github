@@ -34,13 +34,11 @@
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="35" height="35" /> Trending</h2>
 
-- [hello-agents](https://github.com/datawhalechina/hello-agents)：从零开始的智能体原理与实践教程
-- [happy-llm](https://github.com/datawhalechina/happy-llm)：从零开始的大语言模型原理与实践教程
-- [all-in-rag](https://github.com/datawhalechina/all-in-rag)：RAG 技术全栈指南
-- [self-llm](https://github.com/datawhalechina/self-llm)：基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程
-- [tiny-universe](https://github.com/datawhalechina/tiny-universe)：一个全手搓的大模型Tiny-Universe
-- [leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial)：李宏毅老师亲自推荐的深度学习教程
-- [pumpkin-book](https://github.com/datawhalechina/pumpkin-book)：《机器学习》（西瓜书）公式详解
+[![hello-agents](https://github-readme-stats.vercel.app/api/pin/?username=datawhalechina&repo=hello-agents)](https://github.com/datawhalechina/hello-agents)
+[![happy-llm](https://github-readme-stats.vercel.app/api/pin/?username=datawhalechina&repo=happy-llm)](https://github.com/datawhalechina/happy-llm)
+[![all-in-rag](https://github-readme-stats.vercel.app/api/pin/?username=datawhalechina&repo=all-in-rag)](https://github.com/datawhalechina/all-in-rag)
+[![self-llm](https://github-readme-stats.vercel.app/api/pin/?username=datawhalechina&repo=self-llm)](https://github.com/datawhalechina/self-llm)
+[![tiny-universe](https://github-readme-stats.vercel.app/api/pin/?username=datawhalechina&repo=tiny-universe)](https://github.com/datawhalechina/tiny-universe)
 
 
 ## 你是一个不知道从哪儿开始学的小白？
