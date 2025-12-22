@@ -16,13 +16,6 @@
   </div>
   
   <div>&nbsp;</div>
-  
-  <table>
-    <tr>
-      <td><img src="https://metrics.lecoq.io/datawhalechina?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&followup=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&followup=false&followup.sections=repositories&followup.indepth=true&followup.archived=true&config.timezone=Asia%2FShanghai"/></td>
-      <td><img src="https://metrics.lecoq.io/datawhalechina?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FShanghai"/></td>
-    </tr>
-  </table>
 </div>
 
 <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Astronaut.png" width="35" height="35" /> Who we are?</h2>
