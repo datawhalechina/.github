@@ -25,6 +25,25 @@
 
 <p>Datawhale is an AI-focused open source organization founded in 2018. We bring together a group of idealists with an open-source ethos and a spirit of exploration, committed to sharing cutting-edge AI knowledge and improving the learning environment. Our core value is: for the learner, growing alongside learners.</p>
 
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Compass.png" width="35" height="35" /> Guide </h2>
+
+<table>
+  <tr>
+    <td>
+      <h5><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Student.png" width="30" height="30" />你是不知道从哪里开始学的小白？</h5>
+      <p>请看：<a target="_blank" href="https://www.datawhale.cn/learn/summary/40">《Datawhale人工智能培养方案》</a></p>
+    </td>
+    <td>
+      <h5>你想参与贡献我们的开源项目？</h5>
+      <p>请加微信：at-Sm1les</p>
+    </td>
+    <td>
+      <h5>你想在Datawhale发起一个全新的开源项目？</h5>
+      <p>请看：<a target="_blank" href="[https://www.datawhale.cn/learn/summary/40](https://github.com/datawhalechina/DOPMC/blob/main/GUIDE.md)">《Datawhale开源项目指南》</a></p>
+    </td>
+  </tr>
+</table>
+
 <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="35" height="35" /> Trending</h2>
 
 [![hello-agents](https://github-readme-stats.vercel.app/api/pin/?username=datawhalechina&repo=hello-agents&description_lines_count=2)](https://github.com/datawhalechina/hello-agents)
