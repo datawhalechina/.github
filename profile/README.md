@@ -29,16 +29,19 @@
 
 <table>
   <tr>
-    <td>
-      <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Student.png" width="30" height="30" />你是不知道从哪里开始学的小白？</h3>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Student.png" width="30" height="30"/>
+      <h3>你是不知道从哪里开始学的小白？</h3>
       <p>请看：<a target="_blank" href="https://www.datawhale.cn/learn/summary/40">《Datawhale人工智能培养方案》</a></p>
     </td>
-    <td>
-      <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Raising%20Hand.png" width="30" height="30" />你想参与贡献我们的开源项目？</h3>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Raising%20Hand.png" width="30" height="30" />
+      <h3>你想参与贡献我们的开源项目？</h3>
       <p>请加微信：at-Sm1les</p>
     </td>
-    <td>
-      <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Scientist.png" width="30" height="30" />你想在Datawhale发起一个全新的开源项目？</h3>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Scientist.png" width="30" height="30" />
+      <h3>你想在Datawhale发起一个全新的开源项目？</h3>
       <p>请看：<a target="_blank" href="https://github.com/datawhalechina/DOPMC/blob/main/GUIDE.md">《Datawhale开源项目指南》</a></p>
     </td>
   </tr>
