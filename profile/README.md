@@ -31,17 +31,17 @@
   <tr>
     <td align="center">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Student.png" width="30" height="30"/>
-      <h4>你是不知道从哪里开始学的小白？</h4>
+      <p><b>不知道从哪里开始学的小白？</b></p>
       <p>请看：<a target="_blank" href="https://www.datawhale.cn/learn/summary/40">《Datawhale人工智能培养方案》</a></p>
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Raising%20Hand.png" width="30" height="30" />
-      <h4>你想参与贡献我们的开源项目？</h4>
+      <p><b>你想参与贡献我们的开源项目？</b></p>
       <p>请加微信：at-Sm1les</p>
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Scientist.png" width="30" height="30" />
-      <h4>你想在Datawhale发起一个全新的开源项目？</h4>
+      <p><b>你想在Datawhale发起一个开源项目？</b></p>
       <p>请看：<a target="_blank" href="https://github.com/datawhalechina/DOPMC/blob/main/GUIDE.md">《Datawhale开源项目指南》</a></p>
     </td>
   </tr>
