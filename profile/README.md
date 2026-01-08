@@ -49,22 +49,73 @@
 
 <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="35" height="35" /> Trending</h2>
 
-[![hello-agents](https://gh-card.dev/repos/datawhalechina/hello-agents.svg)](https://github.com/datawhalechina/hello-agents)
-[![happy-llm](https://gh-card.dev/repos/datawhalechina/happy-llm.svg)](https://github.com/datawhalechina/happy-llm)
-[![all-in-rag](https://gh-card.dev/repos/datawhalechina/all-in-rag.svg)](https://github.com/datawhalechina/all-in-rag)
-[![self-llm](https://gh-card.dev/repos/datawhalechina/self-llm.svg)](https://github.com/datawhalechina/self-llm)
-[![vibe-vibe](https://gh-card.dev/repos/datawhalechina/vibe-vibe.svg)](https://github.com/datawhalechina/vibe-vibe)
-[![easy-vibe](https://gh-card.dev/repos/datawhalechina/easy-vibe.svg)](https://github.com/datawhalechina/easy-vibe)
-[![base-nlp](https://gh-card.dev/repos/datawhalechina/base-nlp.svg)](https://github.com/datawhalechina/base-nlp)
-[![every-embodied](https://gh-card.dev/repos/datawhalechina/every-embodied.svg)](https://github.com/datawhalechina/every-embodied)
-[![easy-vectordb](https://gh-card.dev/repos/datawhalechina/easy-vectordb.svg)](https://github.com/datawhalechina/easy-vectordb)
-[![handy-ollama](https://gh-card.dev/repos/datawhalechina/handy-ollama.svg)](https://github.com/datawhalechina/handy-ollama)
-[![tiny-universe](https://gh-card.dev/repos/datawhalechina/tiny-universe.svg)](https://github.com/datawhalechina/tiny-universe)
-[![code-your-own-llm](https://gh-card.dev/repos/datawhalechina/code-your-own-llm.svg)](https://github.com/datawhalechina/code-your-own-llm)
-[![self-dify](https://gh-card.dev/repos/datawhalechina/self-dify.svg)](https://github.com/datawhalechina/self-dify)
-[![handy-n8n](https://gh-card.dev/repos/datawhalechina/handy-n8n.svg)](https://github.com/datawhalechina/handy-n8n)
-[![torch-rechub](https://gh-card.dev/repos/datawhalechina/torch-rechub.svg)](https://github.com/datawhalechina/torch-rechub)
-[![members-visualization](https://gh-card.dev/repos/datawhalechina/members-visualization.svg)](https://github.com/datawhalechina/members-visualization)
+<table>
+    <tr>
+        <td align="center">
+            <a href="https://github.com/datawhalechina/hello-agents"><img src="https://gh-card.dev/repos/datawhalechina/hello-agents.svg" /></a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/datawhalechina/happy-llm"><img src="https://gh-card.dev/repos/datawhalechina/happy-llm.svg" /></a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://github.com/datawhalechina/all-in-rag"><img src="https://gh-card.dev/repos/datawhalechina/all-in-rag.svg" /></a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/datawhalechina/self-llm"><img src="https://gh-card.dev/repos/datawhalechina/self-llm.svg" /></a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://github.com/datawhalechina/vibe-vibe"><img src="https://gh-card.dev/repos/datawhalechina/vibe-vibe.svg" /></a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/datawhalechina/easy-vibe"><img src="https://gh-card.dev/repos/datawhalechina/easy-vibe.svg" /></a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://github.com/datawhalechina/base-nlp"><img src="https://gh-card.dev/repos/datawhalechina/base-nlp.svg" /></a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/datawhalechina/every-embodied"><img src="https://gh-card.dev/repos/datawhalechina/every-embodied.svg" /></a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://github.com/datawhalechina/easy-vectordb"><img src="https://gh-card.dev/repos/datawhalechina/easy-vectordb.svg" /></a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/datawhalechina/handy-ollama"><img src="https://gh-card.dev/repos/datawhalechina/handy-ollama.svg" /></a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://github.com/datawhalechina/tiny-universe"><img src="https://gh-card.dev/repos/datawhalechina/tiny-universe.svg" /></a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/datawhalechina/code-your-own-llm"><img src="https://gh-card.dev/repos/datawhalechina/code-your-own-llm.svg" /></a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://github.com/datawhalechina/self-dify"><img src="https://gh-card.dev/repos/datawhalechina/self-dify.svg" /></a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/datawhalechina/handy-n8n"><img src="https://gh-card.dev/repos/datawhalechina/handy-n8n.svg" /></a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://github.com/datawhalechina/torch-rechub"><img src="https://gh-card.dev/repos/datawhalechina/torch-rechub.svg" /></a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/datawhalechina/members-visualization"><img src="https://gh-card.dev/repos/datawhalechina/members-visualization.svg" /></a>
+        </td>
+    </tr>
+</table>
+
 
 <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="35" height="35" /> Contact us </h2>
 <p align="center"> WeChat：at-Sm1les</p>
