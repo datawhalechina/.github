@@ -76,7 +76,7 @@
     </tr>
     <tr>
         <td align="center">
-            <a href="https://github.com/datawhalechina/base-nlp"><img src="https://gh-card.dev/repos/datawhalechina/base-nlp.svg" /></a>
+            <a href="https://github.com/datawhalechina/base-llm"><img src="https://gh-card.dev/repos/datawhalechina/base-llm.svg" /></a>
         </td>
         <td align="center">
             <a href="https://github.com/datawhalechina/every-embodied"><img src="https://gh-card.dev/repos/datawhalechina/every-embodied.svg" /></a>
