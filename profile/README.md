@@ -376,7 +376,6 @@
 [<img src="https://wsrv.nl/?url=github.com/Prado-learning.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="32" height="32" alt="Prado-learning"/>](https://github.com/Prado-learning)
 [<img src="https://wsrv.nl/?url=github.com/purplenigma.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="32" height="32" alt="purplenigma"/>](https://github.com/purplenigma)
 [<img src="https://wsrv.nl/?url=github.com/pzc163.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="32" height="32" alt="pzc163"/>](https://github.com/pzc163)
-[<img src="https://wsrv.nl/?url=github.com/QJieWang.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="32" height="32" alt="QJieWang"/>](https://github.com/QJieWang)
 [<img src="https://wsrv.nl/?url=github.com/rickyxume.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="32" height="32" alt="rickyxume"/>](https://github.com/rickyxume)
 [<img src="https://wsrv.nl/?url=github.com/RINZERON.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="32" height="32" alt="RINZERON"/>](https://github.com/RINZERON)
 [<img src="https://wsrv.nl/?url=github.com/Riroaki.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="32" height="32" alt="Riroaki"/>](https://github.com/Riroaki)
