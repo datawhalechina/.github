@@ -27,22 +27,32 @@
 
 <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Compass.png" width="35" height="35" /> Guide </h2>
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Student.png" width="30" height="30"/>
-      <p><b>不知道从哪里开始学的小白？</b></p>
+      <b>不知道从哪里开始学的小白？</b>
+    </td>
+    <td align="center">
       <p>请看：<a target="_blank" href="https://www.datawhale.cn/learn/summary/40">《Datawhale人工智能培养方案》</a></p>
     </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Raising%20Hand.png" width="30" height="30" />
-      <p><b>你想参与贡献我们的开源项目？</b></p>
-      <p>请加微信：at-Sm1les</p>
-    </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Scientist.png" width="30" height="30" />
-      <p><b>你想在Datawhale发起一个开源项目？</b></p>
+      <b>你想在Datawhale发起一个开源项目？</b>
+    </td>
+    <td align="center">
       <p>请看：<a target="_blank" href="https://github.com/datawhalechina/DOPMC/blob/main/GUIDE.md">《Datawhale开源项目指南》</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Raising%20Hand.png" width="30" height="30" />
+      <b>你想参与贡献我们的开源项目？</b>
+    </td>
+    <td align="center">
+      <p>请加微信：at-Sm1les</p>
     </td>
   </tr>
 </table>
@@ -342,7 +352,6 @@
 [<img src="https://wsrv.nl/?url=github.com/hu-qi.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="32" height="32" alt="hu-qi"/>](https://github.com/hu-qi)
 [<img src="https://wsrv.nl/?url=github.com/isLinXu.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="32" height="32" alt="isLinXu"/>](https://github.com/isLinXu)
 [<img src="https://wsrv.nl/?url=github.com/it-worker-tango.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="32" height="32" alt="it-worker-tango"/>](https://github.com/it-worker-tango)
-[<img src="https://wsrv.nl/?url=github.com/JackBaixue.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="32" height="32" alt="JackBaixue"/>](https://github.com/JackBaixue)
 [<img src="https://wsrv.nl/?url=github.com/jackielics.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="32" height="32" alt="jackielics"/>](https://github.com/jackielics)
 [<img src="https://wsrv.nl/?url=github.com/JaroChen.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="32" height="32" alt="JaroChen"/>](https://github.com/JaroChen)
 [<img src="https://wsrv.nl/?url=github.com/jiangjin1999.png?w=64&h=64&mask=circle&fit=cover&maxage=1w" width="32" height="32" alt="jiangjin1999"/>](https://github.com/jiangjin1999)
