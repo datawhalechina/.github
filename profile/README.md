@@ -48,8 +48,17 @@
   </tr>
   <tr>
     <td align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Construction%20Worker.png" width="30" height="30" />
+      <b>你想知道社区还有哪些待建设的课题？</b>
+    </td>
+    <td align="center">
+      <p>请看：<a target="_blank" href="https://github.com/datawhalechina/DOPMC/blob/main/OPPORTUNITY.md">《Datawhale开源机遇清单》</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Person%20Raising%20Hand.png" width="30" height="30" />
-      <b>你想参与贡献我们的开源项目？</b>
+      <b>你想参与贡献我们已有的开源项目？</b>
     </td>
     <td align="center">
       <p>请加微信：at-Sm1les</p>
