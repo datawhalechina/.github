@@ -43,7 +43,7 @@
       <b>你想在Datawhale发起一个开源项目？</b>
     </td>
     <td align="center">
-      <p>请看：<a target="_blank" href="https://github.com/datawhalechina/DOPMC/blob/main/GUIDE.md">《Datawhale开源项目指南》</a></p>
+      <p>请看：<a target="_blank" href="https://github.com/datawhalechina/DOPMC/blob/main/GUIDE.md">《Datawhale开源指南》</a></p>
     </td>
   </tr>
   <tr>
